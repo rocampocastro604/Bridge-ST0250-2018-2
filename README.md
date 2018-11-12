@@ -37,6 +37,7 @@ rojo : pintar()
 verde : pintar()
 
 figura o-- printer 
+
 ```
 ## Lenguaje: Python3
 
