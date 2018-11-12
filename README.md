@@ -1,6 +1,8 @@
 # Integrantes del Equipo
 Diego Fernando Martinez Osorio
+
 Ricardo Ocampo Castro
+
 Sebastian Lara Machado
 
 # Patron de Diseño: Bridge
